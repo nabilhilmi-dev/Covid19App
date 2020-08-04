@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Covid-19App</string>
+    <string name="aplikasi_covid">covidapp</string>
+    <string name="confirmed">confirmed</string>
+    <string name="countries">Countries</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="total_recovered"> Recovered</string>
+    <string name="total_deaths">Deaths</string>
+    <string name="nama_negara">Nama negara</string>
+    <string name="currently">Currently</string>
+    <string name="total_confirmed">Total Confirmed</string>
+    <string name="new_confirmed">new confirmed</string>
+    <string name="total_new_confirmed">Total New Confirmed</string>
+    <string name="new_deaths">New Deaths</string>
+    <string name="total_new_deaths">total Deaths</string>
+    <string name="total_new_death">Total New Death</string>
+    <string name="total_covered">Total Recovered</string>
+    <string name="new_recovered">New Recovered</string>
+    <string name="recovered">recovered</string>
+</resources>
